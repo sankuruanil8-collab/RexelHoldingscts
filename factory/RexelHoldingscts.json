@@ -1,0 +1,9 @@
+{
+	"name": "RexelHoldingscts",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72f2da2a-b9e8-4619-b18d-679aa39ad3c3",
+		"tenantId": "1d8db490-0db0-4b65-a554-93a325e3dbf0"
+	}
+}
